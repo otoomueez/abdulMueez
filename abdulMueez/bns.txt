@@ -1,0 +1,15 @@
+Download sqliteStudio and link database
+Print database structure with .fetchall 
+
+Applying languages on projects
+Self discipline
+Take on online projects
+Attend programming meetings
+
+C++
+Java
+Angular
+Spring Boot
+Scala
+Python
+Javascript
